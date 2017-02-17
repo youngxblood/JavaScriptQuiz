@@ -62,3 +62,7 @@ isNotCorrect(answer4, 3, 0);
 isNotCorrect(answer5, 4, 0);
 
 document.write('<p><b>You answered ' + correctGuesses + ' question(s) correctly. You guessed ' + wrongGuesses + ' question(s) wrong.');
+
+
+var gitTest = 0;
+gitTest ++;
