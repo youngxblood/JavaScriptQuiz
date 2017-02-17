@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http://necolas.github.io/normalize.css/3.0.2/normalize.css" location="$PROJECT_DIR$/normalize.css" />
+  </component>
+</project>
